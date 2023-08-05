@@ -1,0 +1,7 @@
+---  
+share: true  
+---  
+- [ ] Tự động hóa các thao tác lặp đi lặp lại   
+- [ ] Tự cài wifi  
+- [ ] Tự cài hệ điều hành  
+- [ ] Hiểu về phần mềm mã nguồn mở
