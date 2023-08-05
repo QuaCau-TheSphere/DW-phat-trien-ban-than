@@ -1,0 +1,4 @@
+---  
+share: true  
+---  
+- [ ] Viết cho người mới vào hiểu và thấy chủ đề mình nghiên cứu của mình hấp dẫn
