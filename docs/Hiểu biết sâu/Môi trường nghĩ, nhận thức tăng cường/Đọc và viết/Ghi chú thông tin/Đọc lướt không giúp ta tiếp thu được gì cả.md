@@ -1,4 +1,4 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
-Nguồn :: [[Tự ngẫm nghĩ, trải nghiệm]]
+Nguồn :: [[Tự ngẫm nghĩ, trải nghiệm]]  
