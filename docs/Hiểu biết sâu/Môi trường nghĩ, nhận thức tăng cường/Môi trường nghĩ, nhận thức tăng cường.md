@@ -1,5 +1,5 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
   
-[Reinventing Explanation](https://michaelnielsen.org/reinventing_explanation/index.html)
+[Reinventing Explanation](https://michaelnielsen.org/reinventing_explanation/index.html)  
