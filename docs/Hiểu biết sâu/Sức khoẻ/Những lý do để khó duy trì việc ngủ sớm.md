@@ -1,5 +1,5 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
 Việc lên giường lúc 22h và thức dậy lúc 5h có rất nhiều lợi ích: thêm nhiều ánh sáng hơn. Ngoài ra   
 - Easy to drift, hard to revert  
@@ -28,4 +28,4 @@ Because you need 1 hour more staying awake in bed
 [[Việc mải mê làm việc đến quên cả đói cho thấy phần thưởng từ việc làm việc là đủ lớn hơn việc được ăn]]  
 Thường chỉ dừng khi thấy mỏi lưng, đầu hết nghĩ được gì  
 [[Bảng quan trọng – khẩn cấp]]  
-[[Humane tech]]
+[[Humane tech]]  
