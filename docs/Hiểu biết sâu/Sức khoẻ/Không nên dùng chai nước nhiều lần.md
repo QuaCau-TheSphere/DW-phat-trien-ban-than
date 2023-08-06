@@ -104,4 +104,4 @@ Tuyệt đối không nên sử dụng các loại nhựa có các ký hiệu đ
   
 Trên đây là các thông tin chia sẻ về ký hiệu các loại nhựa phổ biến giúp cho bạn hiểu hơn về sản phẩm được chế tác từ nhựa. Qua bài viết này bạn có thể chọn được các sản phẩm nhựa tốt, an toàn cho sức khỏe cho mọi thành viên của gia đình.  
   
-Nguồn :: [Phân biệt ký hiệu các loại nhựa - loại nhựa nào an toàn cho sức khỏe](https://thuanthienplastic.com/phan-biet-ky-hieu-cac-loai-nhua/)  
+Nguồn:: [Phân biệt ký hiệu các loại nhựa - loại nhựa nào an toàn cho sức khỏe](https://thuanthienplastic.com/phan-biet-ky-hieu-cac-loai-nhua/)  
