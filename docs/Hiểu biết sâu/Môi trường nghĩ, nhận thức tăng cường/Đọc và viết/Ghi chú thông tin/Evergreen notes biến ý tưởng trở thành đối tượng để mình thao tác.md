@@ -1,4 +1,4 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
-[[Ta mô phỏng thế giới qua những vật thể]]
+[[Ta mô phỏng thế giới qua những vật thể]]  
