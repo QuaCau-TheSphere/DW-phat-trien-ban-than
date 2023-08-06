@@ -1,3 +1,3 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
