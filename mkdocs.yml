@@ -6,8 +6,8 @@ site_url: https://pháttriểnbảnthân.xn--qucu-hr5aza.cc
 
 theme:
     name: 'material'
-    logo: assets/meta/Logo/logo3.svg
-    favicon: assets/meta/Logo/logo3.svg
+    # logo: assets/meta/Logo/logo3.svg
+    # favicon: assets/meta/Logo/logo3.svg
     custom_dir: overrides
     font:
         text: Roboto Slab
@@ -20,8 +20,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: orange
+      accent: light green
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -137,7 +137,7 @@ extra:
     fix_heading: true
   analytics:
     provider: google
-    property: G-1KWSJPTCEX
+    property: G-TG62JW6D21
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quacau.sphere/
