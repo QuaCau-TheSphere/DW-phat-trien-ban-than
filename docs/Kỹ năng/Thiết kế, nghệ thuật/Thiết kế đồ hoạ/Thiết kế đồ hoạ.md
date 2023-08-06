@@ -8,4 +8,4 @@ Mô tả::
 - [ ] Illustrator/Inkscape  
 - [ ] SVG  
 # Đầu ra  
-# Tài liệu
+# Tài liệu  
