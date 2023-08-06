@@ -61,4 +61,4 @@ Mô tả::
 James March, Exploration and exploitation in organizational learning  
 [[Sự cân bằng giữa exploration và exploitation]]  
   
-[E-mail Is Making Us Miserable | The New Yorker](https://www.newyorker.com/tech/annals-of-technology/e-mail-is-making-us-miserable "E-mail Is Making Us Miserable | The New Yorker")
+[E-mail Is Making Us Miserable | The New Yorker](https://www.newyorker.com/tech/annals-of-technology/e-mail-is-making-us-miserable "E-mail Is Making Us Miserable | The New Yorker")  

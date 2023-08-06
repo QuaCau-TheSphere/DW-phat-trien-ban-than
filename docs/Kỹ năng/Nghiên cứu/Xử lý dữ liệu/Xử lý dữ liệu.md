@@ -7,4 +7,4 @@ Mô tả::
 - [ ] Sử dụng Python/SPSS  
 - [ ] Tìm hiểu về khoa học dữ liệu  
 # Mức độ thành thạo  
-# Tài liệu
+# Tài liệu  

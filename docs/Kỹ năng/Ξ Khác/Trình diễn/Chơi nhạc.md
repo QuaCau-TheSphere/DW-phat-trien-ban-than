@@ -1,4 +1,4 @@
 ---  
 share: true  
 ---  
-- [ ] Biết xài amply
+- [ ] Biết xài amply  

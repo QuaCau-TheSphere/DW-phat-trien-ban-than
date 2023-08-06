@@ -15,4 +15,4 @@ trong Word em bấm vào nút này để nó thể hiện chỗ nó tách đoạ
 # Thêm người mới  
 ![](https://i.imgur.com/WcZuPQQ.png)  
 # Lưu bản dịch của mình vào trong team   
-![](https://i.imgur.com/JpkQd0g.png)
+![](https://i.imgur.com/JpkQd0g.png)  

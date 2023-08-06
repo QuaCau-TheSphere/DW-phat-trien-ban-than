@@ -1,5 +1,5 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
 [[Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó]]  
   
@@ -35,4 +35,4 @@ Often a good compromise is to use spaced repetition to cheaply internalize a few
   
 [Kidd, A. (1994). The marks are on the knowledge worker. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 186–191](https://notes.andymatuschak.org/zcvfLrDy5Fc5V2gX6CTUVqxPnW55psKEEGQ)  
   
-> The marks which can make a difference to their organisations are on the knowledge workers not on the pieces of paper. This is what it means to inform - to change the form of a person or a device such that they act differently (ideally more effectively) on their environment.
+> The marks which can make a difference to their organisations are on the knowledge workers not on the pieces of paper. This is what it means to inform - to change the form of a person or a device such that they act differently (ideally more effectively) on their environment.  

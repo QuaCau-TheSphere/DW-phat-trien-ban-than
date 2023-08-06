@@ -6,4 +6,4 @@ https://andymatuschak.org/books/
 >  
 >Of course, good lecturers don’t usually _believe_ that simply telling their audience about an idea causes them to understand it. It’s just that lectures, as a format, are shaped _as if_ that were true, so lecturers mostly _behave_ as if it were true.  
 [[Tranmissionism cho rằng kiến thức có thể được truyền trực tiếp]]   
-[[Books, as a format, are shaped as if tranmissionism were true, so writers mostly behave as if it were true]]
+[[Books, as a format, are shaped as if tranmissionism were true, so writers mostly behave as if it were true]]  

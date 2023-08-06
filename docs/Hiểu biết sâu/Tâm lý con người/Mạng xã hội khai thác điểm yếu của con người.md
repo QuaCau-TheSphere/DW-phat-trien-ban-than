@@ -8,4 +8,4 @@ share: true
 		- [Facebook knew Instagram could be bad for teens' mental health](https://www.usatoday.com/story/tech/2021/09/14/facebook-knew-instagram-could-bad-teens-mental-health/8340578002/ "Facebook knew Instagram could be bad for teens' mental health")  
 		- [Aesthetic Consumerism and the Violence of Photography: What Susan Sontag Teaches Us about Visual Culture and the Social Web – The Marginalian](https://www.themarginalian.org/2013/09/16/susan-sontag-on-photography-social-media/ "Aesthetic Consumerism and the Violence of Photography: What Susan Sontag Teaches Us about Visual Culture and the Social Web – The Marginalian")  
 	- [ ] Bảo vệ sự chú ý:   
-	- [ ] Không để
+	- [ ] Không để  

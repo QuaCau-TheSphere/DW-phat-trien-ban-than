@@ -1,4 +1,4 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
-Nguồn ::
+Nguồn ::  

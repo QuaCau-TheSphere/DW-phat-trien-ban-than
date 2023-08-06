@@ -10,4 +10,4 @@ Mô tả::
   
 - Họp: daily note first   
 - Nghiên cứu: topic first   
-- Quản lý dự án: context first, action first
+- Quản lý dự án: context first, action first  

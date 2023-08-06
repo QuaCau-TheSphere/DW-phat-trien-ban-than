@@ -30,4 +30,4 @@ share: true
 > name Chọn lọc nội dung hay  
 > id kiemtrengoogle  
 > action https://www.google.com/search?q=type:pdf%20kỹ%20năng%20Nghiên%20cứu%20(kỹ%20năng)  
-> ```
+> ```  

@@ -43,4 +43,4 @@ Mô tả::
 # Tài liệu  
 - [[Các công việc tổ chức sự kiện]]  
 - [[Các công việc của một chương trình dã ngoại]]  
-## Kỹ năng liên quan
+## Kỹ năng liên quan  

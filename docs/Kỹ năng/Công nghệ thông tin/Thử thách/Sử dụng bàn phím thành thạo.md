@@ -8,4 +8,4 @@ Mô tả::
 - [ ] Dùng AutoHotKey  
 - [ ] Dùng Vim/Emacs  
 # Mức độ thành thạo  
-# Tài liệu
+# Tài liệu  

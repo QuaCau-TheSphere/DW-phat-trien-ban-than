@@ -1,4 +1,4 @@
 ---  
 share: true  
 ---  
-Emotional management
+Emotional management  
