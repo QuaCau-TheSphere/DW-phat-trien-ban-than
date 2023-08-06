@@ -1,5 +1,5 @@
 ---  
-share: [ True, true ]  
+share: true  
 ---  
 Có những cuốn ta quyết định không mua vì không thấy có ích trong việc gì hết Nhưng lúc nhìn vào thì lại thấy là bổ sung cho một thứ mình cần phải có định mua  
   
@@ -16,4 +16,4 @@ Lý do muốn đi nhà sách:
 - Nhìn vào những cuốn ko nghĩ ra là phải mua  
 - Cảm xúc lúc đó  
   
-Nguồn :: [[Tự ngẫm nghĩ, trải nghiệm]]
+Nguồn:: [[Tự ngẫm nghĩ, trải nghiệm]]  
