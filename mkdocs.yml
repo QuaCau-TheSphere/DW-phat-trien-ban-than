@@ -105,7 +105,7 @@ plugins:
   - social:
       cards_font: Roboto Slab
       cards_color:
-        fill: "#009485" 
+        fill: "#FF9800" 
         text: "#FFFFFF" 
 hooks:
   - overrides/hooks/on_page_markdown.py
