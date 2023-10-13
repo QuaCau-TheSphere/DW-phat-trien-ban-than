@@ -1,5 +1,10 @@
----  
-share: true  
----  
-Nguồn :: [[Tự ngẫm nghĩ, trải nghiệm]]  
-[[Explorable explanation thiên về toán, còn data journalism thiên về thống kê dữ liệu]]  
+---
+  
+share: true
+Nguồn::
+---
+  
+Nguồn :: [[Tự ngẫm nghĩ, trải nghiệm]]
+  
+[[Explorable explanation thiên về toán, còn data journalism thiên về thống kê dữ liệu]]
+  
